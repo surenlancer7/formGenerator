@@ -1,0 +1,24 @@
+{
+  "name": "formBuilder",
+  "description": "Automatic Form Generator",
+  "main": "formBuilder.js",
+  "moduleType": [],
+  "keywords": [
+    "form",
+    "builder",
+    "form",
+    "generator"
+  ],
+  "authors": [
+    "Surendher"
+  ],
+  "license": "Y",
+  "homepage": "Null",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
